@@ -1,0 +1,39 @@
+
+1.What is the full meaning of SQL
+structured Querry Language
+
+
+
+
+list and explain 4 sql data types 
+2. Varcher, integer, number, Date, float
+
+Varcher - They are string like data type, they can hold up to 100 characters they are like text but they are used to set limit to the number of characters expected, they are used when we have an idea on the number character expected from the input.
+
+Text- They are similar to Varcher, but they have no character cap, it is save to used them when we have no idea on how many characters are expected from the input
+
+Integer(int)- they are used for numbers, they can be used to store whole number,
+
+Date - it is used to store calendar dates
+
+Float - They are used to store decimal numbers  
+
+
+
+3. List and explain any three aggregate functions that you know 
+
+Count() - It is used to count the number of items on a row
+Sum() - It is to get the sum total of numbers or values on a row 
+Avg() - It is used to get the average of the 
+
+4. There are various categories of sql commands available under structured query language. list and explain in detail all the categoriesof queries 
+
+1.DDL ()- They are used to define the database, they are commands used 
+Create - Create is used to 
+Drop - Drop can be used to delete a whole table
+
+2. DML (Data Manipulation Language) - They are used to mange the database
+Insert - They are used to add information into tables in the database
+Select - They are used to retrieve existing information from the database 
+
+DQL(Data query language)
