@@ -1,5 +1,5 @@
 <?php
-//using oop, create at least 5 new instances of a class fruit to describe the different example of fruits we have 
+
     class Fruits {
 
         public $name = 'Mango';
@@ -10,9 +10,7 @@
 
 
 
-        // public function __construct() {
-
-        // }
+   
 
         public function __construct($name, $color, $taste,$season,)
         {
@@ -22,10 +20,14 @@
         }
        
 
-        $mango = new Fruits('mango',);
+        
         
     }
     
-
+    $mango = new Fruits('mango','green', 'sweet', 'rainy');
+    $apple = new Fruits('apple','green', 'sweet', 'rainy');
+    $orange = new Fruits('orange','green', 'sweet', 'dry');
+    $pineapple = new Fruits('pineaple','green', 'sweet', 'rainy');
+    $pawpaw = new Fruits('pawpaw','green', 'sweet', 'dry');
 
 ?>
