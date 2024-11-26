@@ -24,11 +24,14 @@ Float - They are used to store decimal numbers
 
 Count() - It is used to count the number of items on a row
 Sum() - It is to get the sum total of numbers or values on a row 
-Avg() - It is used to get the average of the 
+Avg() - It is used to get the average of the numeric values
+
+
+
 
 4. There are various categories of sql commands available under structured query language. list and explain in detail all the categoriesof queries 
 
-1.DDL ()- They are used to define the database, they are commands used 
+1.DDL (Data definition language)- They are used to define the database, they are commands used 
 Create - Create is used to 
 Drop - Drop can be used to delete a whole table
 
